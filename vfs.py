@@ -1,0 +1,2 @@
+RESULTS_FOLDER = "./results/"
+COMPANIES_FOLDER = f"{RESULTS_FOLDER}companies/"
