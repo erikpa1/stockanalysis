@@ -14,6 +14,8 @@ COLORS = [
 os.makedirs(f"{vfs.RESULTS_FOLDER}charts/", exist_ok=True)
 
 colors = [
+    "darkred",
+    "lightgreen",
     "b",
     "g",
     "r",
